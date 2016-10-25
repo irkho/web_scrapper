@@ -1,1 +1,0 @@
-cargo:rerun-if-changed=/home/isna/.cargo/registry/src/github.com-1ecc6299db9ec823/html5ever-0.5.4/src/tree_builder/rules.rs
