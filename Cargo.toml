@@ -1,0 +1,8 @@
+[package]
+name = "web_scrapper"
+version = "0.1.0"
+authors = ["isna <isna11583@gmail.com>"]
+
+[dependencies]
+hyper = "*"
+scraper = "*"
